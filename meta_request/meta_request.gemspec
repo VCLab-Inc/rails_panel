@@ -19,7 +19,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'highline', '>= 2.0.0'
   gem.add_dependency 'redcarpet', '>= 3.5.0'
   gem.add_dependency 'sequel', '>= 5.62.0'
-  gem.add_dependency 'sqlite', '>= 1.5.3'
+  gem.add_dependency 'sqlite3', '>= 1.5.0'
   gem.add_development_dependency 'rspec', '~> 3.8.0'
   gem.add_development_dependency 'rubocop', '~> 0.74.0'
 
