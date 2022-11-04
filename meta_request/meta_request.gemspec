@@ -16,6 +16,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'railties', '>= 7.0.0'
   gem.add_dependency 'colorize', '>= 0.8.0'
   gem.add_dependency 'haml', '>= 6.0.0'
+  gem.add_dependency 'highline', '>= 2.0.0'
   gem.add_development_dependency 'rspec', '~> 3.8.0'
   gem.add_development_dependency 'rubocop', '~> 0.74.0'
 
